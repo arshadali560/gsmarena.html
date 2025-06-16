@@ -1,2 +1,0 @@
-# gsmarena.html
-First project
